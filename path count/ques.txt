@@ -1,0 +1,19 @@
+input:
+n k   where n is no of nodes in the tree and k in arbitary integer
+n-1 lines that gives nodes pair that represent thgat there is a edge between them
+
+output:
+print all those paths in tree which has all nodes greater than or equal to k
+
+
+
+example:
+
+input:
+4 2
+1 2
+2 3
+3 4
+
+output:
+3 
