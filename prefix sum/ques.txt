@@ -1,0 +1,17 @@
+You are given an integer N . You need to print an array of size N such that its every prefix sum is a perfect
+‘square and all the elements are distinct. If there are more than one arrays that satisfy the constraints, you
+can print any.
+
+Note: The prefix sum of the array is calculated in the following way: Let array be (1, 9, 12] then its prefix sum
+array ts (1, 10, 22] i.e. for every index i, pre fix_suml{i] is the sum of first i integers.
+
+Input
+The first line contains an integer N as input that denotes the size of the array you need to print.
+
+Output
+In the output, you need to print N integers separated by space in a single line. Each integer must be in the
+range 1 to 10° both inclusive. If the array does not exist for given constraints, you need to print —1.
+
+Constraints
+1<N<10°
+
