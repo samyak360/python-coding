@@ -1,0 +1,30 @@
+find out is it possible to make a part of first string similar to second string
+
+if possible print out Yes and minium deletion we have to make in first string ,if not print No
+
+input :
+
+no of test case on first line 
+first string 
+second string 
+
+output :
+
+Yes if it can be possible with no of minimum deletion on next line (can be 0)
+
+No otherwise
+
+example:
+
+input:
+2
+globaelglobglo
+global
+dome
+done
+
+
+output:
+Yes
+1
+No
